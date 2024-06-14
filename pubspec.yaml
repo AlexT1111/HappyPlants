@@ -29,3 +29,4 @@ flutter:
   assets:
     - images/plantlogo.png
     - assets/HAPPYPLANTS.plants.json    
+    - images/test.txt
