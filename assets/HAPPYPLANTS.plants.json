@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6662045468b6e1526d6078f8"
+  },
+  "commonName": "Sword Fern",
+  "scientificName": "Nephrolepis Exaltata",
+  "family": "Lomariopsidaceae",
+  "plantType": "Herbaceous",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Moist, Well Drained, Acidic",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "High Humidity, Not Cold Tolerant",
+  "nativeContinent": "North America, South America, Africa, Oceania",
+  "toxicity": "Nontoxic",
+  "notes": "Requires warm, humid conditions, so commonly placed indoors in bathrooms."
+},
+{
+  "_id": {
+    "$oid": "6662775b68b6e1526d6078ff"
+  },
+  "commonName": "Lucky Bamboo",
+  "scientificName": "Dracaena Sanderiana",
+  "family": "Asparagaceae",
+  "plantType": "Shrub",
+  "matureSize": "Small",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Water, Moist, Well Drained",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Africa",
+  "toxicity": "Pets",
+  "notes": "Despite the name and appearance, Lucky Bamboo is not a type of bamboo. It is actually a type of succulent."
+},
+{
+  "_id": {
+    "$oid": "66627c6968b6e1526d607900"
+  },
+  "commonName": "Snake Plant",
+  "scientificName": "Dracaena Trifasciata",
+  "family": "Asparagaceae",
+  "plantType": "Evergreen",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Sandy, Well Drained",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Africa",
+  "toxicity": "Pets",
+  "notes": "The Snake plant is incredibly effective at purifying the air. Not only is it efficient at producing oxygen, it can also remove toxins from the air such as formaldehyde, xylene, toluene, and nitrogen oxides."
+},
+{
+  "_id": {
+    "$oid": "6662824068b6e1526d607901"
+  },
+  "commonName": "Basil",
+  "scientificName": "Ocimum Basilicum",
+  "family": "Mint",
+  "plantType": "Herb",
+  "matureSize": "Small",
+  "sunNeeds": "Full",
+  "soilNeeds": "Rich",
+  "waterNeeds": "High Maintenance",
+  "flowerColor": "White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Africa, Asia",
+  "toxicity": "Nontoxic",
+  "notes": "Basil is a member of the mint family. It edible and is commonly used as an ingredient in italian style dishes like pesto and margherita pizza."
+},
+{
+  "_id": {
+    "$oid": "6662853b68b6e1526d607902"
+  },
+  "commonName": "Rosemary",
+  "scientificName": "Salvia Rosmarinus",
+  "family": "Lamiaceae",
+  "plantType": "Herb",
+  "matureSize": "Small, Medium",
+  "sunNeeds": "Full",
+  "soilNeeds": "Sandy, Loamy, Well Drained",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "Blue, Pink, White",
+  "idealTemperature": "Cold Tolerant",
+  "nativeContinent": "Europe, Aftica, Asia",
+  "toxicity": "Nontoxic",
+  "notes": "Rosemary requires a lot of sunlight, so it is commonly grown outside or in a sunny windowsill. It is edible and is commonly used as an aromatic/seasoning in roasts."
+},
+{
+  "_id": {
+    "$oid": "6662873068b6e1526d607903"
+  },
+  "commonName": "Rubber Fig",
+  "scientificName": "Ficus Elastica",
+  "family": "Moraceae",
+  "plantType": "Tree",
+  "matureSize": "Large",
+  "sunNeeds": "Full",
+  "soilNeeds": "Acidic",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "Green, White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Asia",
+  "toxicity": "Pets",
+  "notes": "The rubber fig produces a milky white latex sap which was once used as an early source of natural rubber."
+},
+{
+  "_id": {
+    "$oid": "6662876b68b6e1526d607904"
+  },
+  "commonName": "Money Tree",
+  "scientificName": "Guiana Chestnut",
+  "family": "Malvaceae",
+  "plantType": "Tree",
+  "matureSize": "Medium, Large",
+  "sunNeeds": "Full, Partial",
+  "soilNeeds": "Acidic",
+  "waterNeeds": "High Maintenance",
+  "flowerColor": "Yellow, White",
+  "idealTemperature": "High Humidity, Not Cold Tolerant",
+  "nativeContinent": "North America, South America",
+  "toxicity": "Nontoxic",
+  "notes": "Money trees are often braided together while young and grow together for the lifetime of the tree."
+},
+{
+  "_id": {
+    "$oid": "66628b9a68b6e1526d607905"
+  },
+  "commonName": "Umbrella Plant",
+  "scientificName": "Schefflera Actinophylla",
+  "family": "Araliaceae",
+  "plantType": "Evergreen",
+  "matureSize": "Medium, Large",
+  "sunNeeds": "Full, Indirect",
+  "soilNeeds": "Rich, Moist",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Red, Pink, White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Asia, Africa, Oceania",
+  "toxicity": "Nontoxic",
+  "notes": "Schefflera can be easily propagated through cuttings. Stem cuttings taken from a healthy plant can be rooted in water or directly in soil."
+},
+{
+  "_id": {
+    "$oid": "6662919768b6e1526d607906"
+  },
+  "commonName": "Golden Barrel Cactus",
+  "scientificName": "Echinocactus Grusonii",
+  "family": "Cactaceae",
+  "plantType": "Cactus",
+  "matureSize": "Small, Medium",
+  "sunNeeds": "Full",
+  "soilNeeds": "Sandy, Well Drained",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "Yellow",
+  "idealTemperature": "Cold Tolerant, Low Humidity",
+  "nativeContinent": "North America",
+  "toxicity": "Nontoxic",
+  "notes": "While most barrel cacti species contain water, this water is not drinkable due to high content of alkaloids. The one exception to this is the Fishhook Barrel Cactus which, while it is still not perfectly safe, has a lower concentration of these chemicals and can be drank from in a survival situation."
+},
+{
+  "_id": {
+    "$oid": "6662920c68b6e1526d607907"
+  },
+  "commonName": "Bunny Ears Cactus",
+  "scientificName": "Opuntia microdasys",
+  "family": "Cactaceae",
+  "plantType": "Cactus",
+  "matureSize": "Small, Medium",
+  "sunNeeds": "Full",
+  "soilNeeds": "Sandy, Well Drained, Acidic",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "Yellow, White",
+  "idealTemperature": "Cold Tolerant, Low Humidity",
+  "nativeContinent": "North America",
+  "toxicity": "Nontoxic",
+  "notes": "These cacti are hardy and easy to care for. The only real risk is overwatering."
+},
+{
+  "_id": {
+    "$oid": "6662931d68b6e1526d607908"
+  },
+  "commonName": "Black Velvet Alocasia",
+  "scientificName": "Alocasia Reginula",
+  "family": "Araceae",
+  "plantType": "Herbaceous",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "White",
+  "idealTemperature": "Not Cold Tolerant, High Humidity",
+  "nativeContinent": "Asia",
+  "toxicity": "Pets, People",
+  "notes": "Allow 20 percent of the topsoil to dry between waterings and a pebble tray or humidifier is reccomended."
+},
+{
+  "_id": {
+    "$oid": "6662981768b6e1526d607909"
+  },
+  "commonName": "Ficus Audrey",
+  "scientificName": "Ficus Benghalensis",
+  "family": "Moraceae",
+  "plantType": "Tree",
+  "matureSize": "Large",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained, Moist, Acidic",
+  "waterNeeds": "High Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Asia",
+  "toxicity": "Pets, People",
+  "notes": "Dust can accumulate on the leaves of this plant which can hinder photosynthesis. It is recommended to clean the leaves with a damp washcloth."
+},
+{
+  "_id": {
+    "$oid": "6662992768b6e1526d60790a"
+  },
+  "commonName": "Spider Plant",
+  "scientificName": "Chlorophytum Comosum",
+  "family": "Asparagaceae",
+  "plantType": "Herbaceous",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained, Loamy",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "White",
+  "idealTemperature": "Not Cold Tolerant, High Humidity",
+  "nativeContinent": "Africa",
+  "toxicity": "Nontoxic",
+  "notes": "These plants can form small off-shoots that can be repotted and grow into a new plant."
+},
+{
+  "_id": {
+    "$oid": "6662999d68b6e1526d60790b"
+  },
+  "commonName": "Swiss Cheese Plant",
+  "scientificName": "Monstera Deliciosa",
+  "family": "Araceae",
+  "plantType": "Vine",
+  "matureSize": "Medium, Large",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained, Acidic",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "Not Cold Tolerant, High Humidity",
+  "nativeContinent": "North America",
+  "toxicity": "Pets, People",
+  "notes": "The name deliciosa refers to the plant's fruit, which is edible and considered a delicacy in its native regions. The fruit resembles a green ear of corn and has a sweet, tropical flavor similar to a mix of pineapple and banana. However, it must be fully ripe to be safe to eat, as unripe fruit contains calcium oxalate crystals that can irritate the mouth and throat."
+},
+{
+  "_id": {
+    "$oid": "66629a1468b6e1526d60790c"
+  },
+  "commonName": "Homalomena Selby",
+  "scientificName": "Homalomena Hybrid",
+  "family": "Araceae",
+  "plantType": "Evergreen",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained, Acidic",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "Not Cold Tolerant, High Humidity",
+  "nativeContinent": "Asia, South America",
+  "toxicity": "Pets, People",
+  "notes": "In some cultures, Homalomena plants are considered symbols of good luck and prosperity. They are often given as gifts to convey best wishes and positive energy."
+},
+{
+  "_id": {
+    "$oid": "66629a7f68b6e1526d60790d"
+  },
+  "commonName": "Heartleaf Philodendron",
+  "scientificName": "Philodendron Hederaceum",
+  "family": "Araceae",
+  "plantType": "Vine",
+  "matureSize": "Medium",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Well Drained, Acidic",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "North America, South America",
+  "toxicity": "Pets, People",
+  "notes": "This plant is native to the tropical rainforests of Central and South America. In its natural environment, it often grows as an epiphyte, climbing trees with the help of its aerial roots."
+},
+{
+  "_id": {
+    "$oid": "66629cdf68b6e1526d60790e"
+  },
+  "commonName": "Jasmine",
+  "scientificName": "Jasminum",
+  "family": "Oleaceae",
+  "plantType": "Shrub, Vine",
+  "matureSize": "Small, Medium",
+  "sunNeeds": "Partial, Full",
+  "soilNeeds": "Well Drained, Rich, Loamy",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Gold, Yellow, Pink, White",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Asia, Oceania, Europe",
+  "toxicity": "Nontoxic",
+  "notes": "Jasmine has been used in traditional medicine for centuries. Jasmine tea is believed to have calming effects and aid in digestion. Jasmine oil is used in aromatherapy to reduce stress and improve mood."
+},
+{
+  "_id": {
+    "$oid": "66629e0668b6e1526d60790f"
+  },
+  "commonName": "Aloe Vera",
+  "scientificName": "Aloe Vera",
+  "family": "Asphodelaceae",
+  "plantType": "Succulent, Herb",
+  "matureSize": "Small, Medium",
+  "sunNeeds": "Partial, Full",
+  "soilNeeds": "Sandy, Acidic",
+  "waterNeeds": "High Maintenance",
+  "flowerColor": "Yellow, Red, Oranger",
+  "idealTemperature": "Not Cold Tolerant",
+  "nativeContinent": "Africa",
+  "toxicity": "Pets, People",
+  "notes": "Commonly used to treat skin ailments such as burns and abrasions."
+},
+{
+  "_id": {
+    "$oid": "6662a01068b6e1526d607910"
+  },
+  "commonName": "Fiddle Leaf Fig",
+  "scientificName": "Ficus Lyrata",
+  "family": "Moraceae",
+  "plantType": "Evergreen",
+  "matureSize": "Large",
+  "sunNeeds": "Partial",
+  "soilNeeds": "Loamy, Well Drained",
+  "waterNeeds": "Medium Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "MedHumidity",
+  "nativeContinent": "Africa",
+  "toxicity": "Pets, People",
+  "notes": "The Fiddle Leaf Fig, scientifically known as Ficus lyrata, is a popular houseplant admired for its large, glossy leaves that resemble the shape of a violin or fiddle."
+},
+{
+  "_id": {
+    "$oid": "6662a0a968b6e1526d607911"
+  },
+  "commonName": "Hawaiian Pothos",
+  "scientificName": "Epipremnum Aureum",
+  "family": "Araceae",
+  "plantType": "Vine",
+  "matureSize": "Large, Medium",
+  "sunNeeds": "Full, Partial",
+  "soilNeeds": "Moist, Well Drained, Acidic",
+  "waterNeeds": "Low Maintenance",
+  "flowerColor": "Nonflowering",
+  "idealTemperature": "High Humidity",
+  "nativeContinent": "Oceania",
+  "toxicity": "Pets",
+  "notes": "Hawaiian Pothos is admired for its heart-shaped leaves that feature a marbling or splashing of creamy white, green, and sometimes yellow. The variegation adds visual interest and makes it a sought-after plant for indoor decoration."
+}]
