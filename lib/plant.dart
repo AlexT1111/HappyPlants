@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class Plant {
   final String commonName;
   final String scientificName;
